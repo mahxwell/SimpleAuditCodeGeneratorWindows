@@ -1,7 +1,7 @@
 # SimpleAuditCodeGeneratorWindows
 
 
-Generate Powershell audit code Compliancy from xlsx MSC 
+Generate Powershell audit code Compliancy from .xlsx/.xls MSC (MicroSoft Compliance ToolKit) files.
 
 ### Usage
 
