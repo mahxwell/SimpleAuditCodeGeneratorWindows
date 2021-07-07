@@ -8,7 +8,7 @@ This script is a simplified version of PowerShellScriptGenerator and only genera
 ### Usage
 
 ```
-python main.py [path to xlsx to parse]
+python main.py [absolute path to xlsx to parse]
 ```
 
 
